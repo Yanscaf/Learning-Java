@@ -1,3 +1,5 @@
+package Practis;
+
 import java.util.Scanner;
 
 public class TemperatureConverter {
